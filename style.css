@@ -30,8 +30,8 @@ body {
 .wrapper {
   display: flex;
   flex-direction: column;
-  width: 1000px;
-  height: 600px;
+  width: 80%;
+  height: 80%;
 }
 .info {
   margin-top: 20px;
